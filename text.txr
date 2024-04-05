@@ -1,0 +1,10 @@
+ <div>
+                  <img width="15%" src="../imagem/user.png" class="img-fluid" alt="user">
+                </div>
+                <h1>Login Center</h1>
+                <div>
+                  <a href="login.html"><button type="button" class="btn btn-light btn-outline-secondary btn-primary btn-lg">Login</button></a>
+                </div>
+                <div>
+                  <button type="button" class="btn btn-light btn-outline-secondary btn-primary btn-lg">Secondary</button>
+                </div>
